@@ -2,7 +2,7 @@
 
 > Vieno failo demo svetainė Karoliniškių kavinei „Koralai“ (lietuvių kalba).
 
-> Dalis portfolio: [svetainė-portfolio](https://auryxn.github.io/site-admin/) — svetainės
+> Dalis portfolio: [auryxn.codes](https://auryxn.codes) — svetainės
 > repozitorija [site-admin](https://github.com/auryxn/site-admin).
 
 ## Kas tai
