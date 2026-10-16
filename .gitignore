@@ -1,0 +1,11 @@
+# os / editor
+.DS_Store
+.idea/
+.vscode/
+
+# logs
+*.log
+
+# misc build artifacts (not used by this static project)
+node_modules/
+dist/
